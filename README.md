@@ -37,4 +37,4 @@ python main_multitask_lstm_user_cluster.py test --create_dataset=1 --load_model_
 python main_multitask_lstm_user_cluster.py eval --load_model_epoch=40  --exp_name=myexp --given_gt=0
 ```
 
-Please check the create_config.py inside the folder of each model variant, to change the data path, hyper-parameters, and other settings, etc.
+Please check the create_config.py inside the folder of each model variant, to change the data path, hyper-parameters, and other settings.
