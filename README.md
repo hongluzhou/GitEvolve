@@ -1,5 +1,9 @@
 # GitEvolve
 The repository for code in GitEvolve: Predicting the Evolution of GitHub Repositories
+   
+    
+# Installation
+Run 'conda env create -f environment.yml' to create a conda environment that satisfies the package requirement. Find (or modify) the conda environment name in the first line of 'environment.yml'.
 
 
 # How to run
