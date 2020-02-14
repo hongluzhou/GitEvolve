@@ -19,7 +19,7 @@ import pdb
 if __name__ == '__main__':
 
     # ============= load history files
-    model_path = '/media/data1/github_paper_exp/exp/aug7_2_vanilla/models/'
+    model_path = '/media/data1/github_paper_exp/exp/myexp/models/'
     history_file = 'history-{}.pickle'.format('30')
 
     with open(os.path.join(model_path, history_file), 'rb') as f:

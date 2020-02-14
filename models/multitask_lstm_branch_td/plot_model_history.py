@@ -19,7 +19,7 @@ import pdb
 if __name__ == '__main__':
 
     # ============= load history files
-    model_path = '/media/data1/github_paper_exp/exp/www_branch_td/models/'
+    model_path = '/media/data1/github_paper_exp/exp/myexp/models/'
     history_file = 'history_final.pickle'
     # history_file = 'history-{}.pickle'.format('105')
 

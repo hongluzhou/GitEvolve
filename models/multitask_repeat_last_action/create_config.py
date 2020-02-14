@@ -84,7 +84,7 @@ def create_path_config():
     path_config = {
             # -- the directory to save experiment files
             'exp_save_dir': os.path.join(
-                    root_dir, 'exp', 'www_review_repeat_last_action'),  # aug7_2_vanilla
+                    root_dir, 'exp', 'myexp'),
 
             # --- the directory to cascades
             'cascade_dir': os.path.join(
@@ -149,7 +149,7 @@ def create_path_config():
                     root_dir, 'data', 'load_repo_train_vali.pickle'),
 
             # --- the directory to unique_repo_train_vali
-            'unique_repo_train_vali_path': '/media/data1/github_paper_exp/exp/www_branch_et/dataset/unique_repo_train_vali.json',
+            'unique_repo_train_vali_path': '/media/data1/github_paper_exp/dataset/unique_repo_train_vali.json',
 
             'root_dir': root_dir
             }

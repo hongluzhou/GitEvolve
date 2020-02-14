@@ -84,7 +84,7 @@ def create_path_config():
     path_config = {
             # -- the directory to save experiment files
             'exp_save_dir': os.path.join(
-                    root_dir, 'exp', 'www_get_statistics'),  # www_branch_uc
+                    root_dir, 'exp', 'myexp'),
 
             # --- the directory to cascades
             'cascade_dir': os.path.join(
