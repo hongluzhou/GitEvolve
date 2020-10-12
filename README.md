@@ -1,5 +1,16 @@
 # GitEvolve
-The repository for code in GitEvolve: Predicting the Evolution of GitHub Repositories
+The repository for code in [GitEvolve: Predicting the Evolution of GitHub Repositories](https://arxiv.org/abs/2010.04366). If you find this repository useful in your research, please consider citing:
+
+```
+@misc{zhou2020gitevolve,
+      title={GitEvolve: Predicting the Evolution of GitHub Repositories}, 
+      author={Honglu Zhou and Hareesh Ravi and Carlos M. Muniz and Vahid Azizi and Linda Ness and Gerard de Melo and Mubbasir Kapadia},
+      year={2020},
+      eprint={2010.04366},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI}
+}
+```
    
     
 # Installation
